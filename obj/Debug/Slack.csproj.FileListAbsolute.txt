@@ -1,7 +1,0 @@
-c:\users\ghionel\documents\visual studio 2015\Projects\Slack\Slack\bin\Debug\Slack.exe.config
-c:\users\ghionel\documents\visual studio 2015\Projects\Slack\Slack\bin\Debug\Slack.exe
-c:\users\ghionel\documents\visual studio 2015\Projects\Slack\Slack\bin\Debug\Slack.pdb
-c:\users\ghionel\documents\visual studio 2015\Projects\Slack\Slack\bin\Debug\Newtonsoft.Json.dll
-c:\users\ghionel\documents\visual studio 2015\Projects\Slack\Slack\bin\Debug\Newtonsoft.Json.xml
-c:\users\ghionel\documents\visual studio 2015\Projects\Slack\Slack\obj\Debug\Slack.exe
-c:\users\ghionel\documents\visual studio 2015\Projects\Slack\Slack\obj\Debug\Slack.pdb
