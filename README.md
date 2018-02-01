@@ -1,7 +1,7 @@
 # SlackAPI
 Get channels list and Post Message in Slack with API Slack
 
-Two request with Get And Post.
+Two http requests with a get and a post.
 You can add others requests with Slack API documentation : https://api.slack.com/
 
 Change Slack Url and Token authentication with your personnal data in SlackApi.cs
